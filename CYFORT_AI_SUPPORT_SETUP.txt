@@ -1,0 +1,6 @@
+CyFort AI Support Assistant V11
+Office-hours display is configured Mon-Fri 08:00-17:00 Africa/Harare (Zimbabwe time). Change this in assets/cyfort-ai-chat.js if your real hours differ.
+
+The included static FAQ assistant works immediately. Ticket submissions in this demo are stored only in the visitor's browser (localStorage). BEFORE PRODUCTION, connect CREATE TICKET to a secure server-side help-desk/CRM/email API so requests reach Customer Services.
+
+For a true generative AI assistant, connect this interface to a server-side LLM/RAG endpoint using an approved CyFort knowledge base. Never place model API keys in browser JavaScript. Add server-side validation, rate limiting/spam protection, privacy/retention controls, and authentication where appropriate.
