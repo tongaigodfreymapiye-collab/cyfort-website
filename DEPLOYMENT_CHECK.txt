@@ -1,0 +1,17 @@
+CYFORT GITHUB PAGES COMPLETE BUILD
+
+Required repository-root items:
+index.html
+assets/
+game/
+downloads/
+legal-documents/
+.nojekyll
+
+If the site looks like unstyled HTML, the assets folder was not uploaded.
+Upload ALL CONTENTS of this ZIP to the repository root, preserving folders.
+
+GitHub Pages:
+Source: Deploy from a branch
+Branch: main
+Folder: / (root)
